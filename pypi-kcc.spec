@@ -7,7 +7,7 @@
 #
 Name     : pypi-kcc
 Version  : 0.0.9
-Release  : 34
+Release  : 35
 URL      : https://files.pythonhosted.org/packages/7e/c3/f9ba13362899209242078bbf24c7d8e62baf90ae23d9a199429e07a78d60/kcc-0.0.9.tar.gz
 Source0  : https://files.pythonhosted.org/packages/7e/c3/f9ba13362899209242078bbf24c7d8e62baf90ae23d9a199429e07a78d60/kcc-0.0.9.tar.gz
 Summary  : Check kernel config for security issues
